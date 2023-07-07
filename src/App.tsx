@@ -5,8 +5,8 @@ function App() {
   return (
     <div className='h-screen'>
       <NavBar />
-      <div className='bg-primary h-full flex flex-row p-12'>
-        <div className='w-1/3 border-r border-r-text'>
+      <div className='bg-slate-900 h-full flex flex-row'>
+        <div className='w-1/3 border-r border-slate-800'>
         </div>
         <div className='w-full'>
         </div>
